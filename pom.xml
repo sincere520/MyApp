@@ -19,7 +19,7 @@
 	    <repository>
 	        <id>nexus-deployment</id>
 	        <name>Nexus Repository</name>
-	        <url>http://localhost:8080/content/repositories/snapshots/</url>
+	        <url>http://localhost:8081/content/repositories/snapshots/</url>
 	    </repository>
 	</distributionManagement>
 	<reporting>
