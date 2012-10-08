@@ -1,5 +1,7 @@
 package com.mycompany.app;
 
+import java.awt.*;
+
 /**
  * Hello world!
  *
@@ -8,7 +10,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	  int i = '1';
-        System.out.println( "Hello World! " + i );
+    	  String str = "1234";
+        System.out.println( "Hello World! " + Integer.parseInt(str) );
     }
 }
