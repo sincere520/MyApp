@@ -6,7 +6,7 @@ public class App
     {
   	  String str1 = "str";
   	  String str2 = "str";
-  	  System.out.println("Hello World! "+str1.equals(str2));
+  	  System.out.println("Hello World! "+str1.equalsIgnoreCase(str2));
 
   	  String test1 = "123";
   	  char[] test2 = null;
