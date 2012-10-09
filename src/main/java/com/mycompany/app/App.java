@@ -13,6 +13,6 @@ public class App
   	  test1 = String.copyValueOf(test2);
 
   	  System.out.println("Hello World! "+test1);
-  	  System.out.println("Hello World! "+test2);
+  	  System.out.println("Hello World! "+test2[2]);
     }
 }
