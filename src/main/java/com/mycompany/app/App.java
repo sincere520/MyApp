@@ -10,7 +10,7 @@ public class App
 
   	  String test1 = "123";
   	  char[] test2 = null;
-  	  String.copyValueOf(test2);
+  	  test1 = String.copyValueOf(test2);
 
   	  System.out.println("Hello World! "+test1);
   	  System.out.println("Hello World! "+test2);
